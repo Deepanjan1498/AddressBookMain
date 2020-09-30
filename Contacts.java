@@ -91,5 +91,8 @@ public class Contacts {
 				+ ", emailId=" + emailId + ", address=" + address + ", zipcode=" + zipcode + ", city=" + city
 				+ ", state=" + state + "]";
 	}
+
+	
 }	
+
 	
